@@ -1,3 +1,9 @@
+/**
+ * LeetCode
+ * 3. Longest Substring Without Repeating Characters
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+ */
+
 import java.util.Scanner;
 
 public class LongestSubstringWithoutRepeatingCharacters{
